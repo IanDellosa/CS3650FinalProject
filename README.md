@@ -1,5 +1,7 @@
 # CS3650FinalProject
 
+Members: Ian Dellosa, Michelle Paino
+
 Title: Spotify Song of the Day
 
 Description: Create an application that provides users with a recommended song daily, along with daily horoscopes/affirmations. 
